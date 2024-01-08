@@ -1,6 +1,6 @@
-### Hi there 👋
+# Welcome to Arjun's GitHub Profile 👋
 
-
+## About Me
 
 Hello fellow coders! I'm Arjun, a Computer Science student with a specialization in Artificial Intelligence.
 
