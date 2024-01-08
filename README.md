@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ARN-SEC/ARN-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hello fellow coders! I'm Arjun, a Computer Science student with a specialization in Artificial Intelligence.
 
@@ -11,4 +10,3 @@ Hello fellow coders! I'm Arjun, a Computer Science student with a specialization
 - 💬 Ask me about anything related to Java, Python, R, MongoDB, Redis, Cassandra, MySQL, AI/ML, or Data Science.
 - 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/arjun-siju-047b741b4/).
 - 😄 Pronouns: He/him
--->
